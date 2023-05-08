@@ -1,16 +1,15 @@
-### Hi there 👋
+### Salve galera 🎱
 
-<!--
-**GustavoWkm/GustavoWkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Gustavo Wichert,mais conhecido como GustavoWkm
 
-Here are some ideas to get you started:
+- Estou cursando o [Alura](https://www.alura.com.br)
+- Sou novo no mundo do Javascript
+- Utilizo esse espaço para colocar minha ideias de jogos/programação 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo meu Email📬 ou pelas minha redes sociais 👨‍👨‍👦‍👦
+
+gustavowkm852@gmail.com 
+
+@gustavo_Wkm
+
+![](https://media.tenor.com/KrFA1hpXRokAAAAd/negan-twd.gif)
