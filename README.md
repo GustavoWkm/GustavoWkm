@@ -3,8 +3,11 @@
 Meu nome e Gustavo Wichert,mais conhecido como GustavoWkm
 
 - Estou cursando o [Alura](https://www.alura.com.br)
-- Sou novo no mundo do Javascript
-- Utilizo esse espaço para colocar minha ideias de jogos/programação 
+- Pai manja no Mundo do Javascript
+- Utilizo esse espaço para colocar minha ideias de jogos/programação
+- Terra segue plana
+- SEM PRESSÃO
+
 
 ### Você pode entrar em contato comigo pelo meu Email📬 ou pelas minha redes sociais 👨‍👨‍👦‍👦
 
